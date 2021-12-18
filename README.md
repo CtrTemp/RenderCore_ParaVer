@@ -9,3 +9,6 @@ RenderCore_ParaVer using MPI
 
 
 	注意：这个版本目前只能在Linux环境下运行
+	  
+注意：目前的版本在核心任务块划分部分出现了一些问题，需要手动修改代码才能获得想要的效果，具体在Image_tile_partition_Init()函数
+	  
