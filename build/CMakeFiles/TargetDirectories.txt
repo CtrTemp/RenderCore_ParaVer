@@ -1,0 +1,3 @@
+/home/ctrtemp/Documents/VS_Code_Prj/RenderingCoreTest/Test/build/CMakeFiles/edit_cache.dir
+/home/ctrtemp/Documents/VS_Code_Prj/RenderingCoreTest/Test/build/CMakeFiles/rebuild_cache.dir
+/home/ctrtemp/Documents/VS_Code_Prj/RenderingCoreTest/Test/build/CMakeFiles/renderingCore.dir
